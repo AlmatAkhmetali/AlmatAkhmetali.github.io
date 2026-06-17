@@ -1,0 +1,15 @@
+- title: "Machine Learning in Practice"
+  event: "International Conference on AI 2024"
+  location: "Virtual"
+  date: 2024-06-15
+  type: "Conference Talk"
+  description: "Overview of deploying ML models..."
+  slides: /assets/pdf/talk_slides.pdf
+
+- title: "Deep Learning Workshop"
+  event: "Tech Summit 2024"
+  location: "San Francisco, CA"
+  date: 2024-05-20
+  type: "Workshop"
+
+  
