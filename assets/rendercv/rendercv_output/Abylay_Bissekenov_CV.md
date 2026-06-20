@@ -18,6 +18,10 @@ Suzhou, China
 
 Mar 2024 – Dec 2026
 
+- Expected graduation at the end of 2026.
+
+- Upon delays, the CV would be updated
+
 
 
 ## **Nazarbayev University**, Physics
@@ -36,7 +40,7 @@ Aug 2021 – June 2023
 
 
 
-## **Aktobe Regional State University**, Physics
+## **K.Zhubanov Aktobe Regional State University**, Physics
 
 **BS**
 
@@ -124,7 +128,7 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 
 
 
-# Conferences and Talks
+# Conferences, Talks and Visits
 - European Astronomical Society Annual Meeting 2026; Lausanne, Switzerland; 2026/06/29-2026/07/04 - K-Poster Presentation
 
 - 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contrabuted Presentation
@@ -135,7 +139,15 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 
 - 2026 XJTLU Postgraduate Research Symposium; Suzhou, China; 2026/03/19-2026/03/20 - Oral and Poster Presentation
 
-- Informal Presentation at Max Plank Institute of Astronomy, 2025/07/29 - Oral Presentation
+- Informal Presentation at Fesenkov Astrophysical Institute; 2025/10/08 - Oral Presentation
+
+- Informal Presentation at Al-Farabi Kazakh National University; 2025/10/07 - Oral Presentation
+
+- Informal Presentation at Nazarbayev University; 2025/09/29 - Oral Presentation
+
+- Galaxy Coffee Seminar at Max Plank Institute of Astronomy; 2025/07/29 - Oral Presentation
+
+- Researcher visit to University of Heidelberg; Heidelberg, Germany; 2025/06/29-2025/08/04
 
 - Galaxy Evolution Seminar of Eva K. Grebel group in University of Heidelberg; 2025/07/16 - Oral Presentation
 
@@ -144,6 +156,8 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 - 2025 XJTLU Postgraduate Research Symposium; Suzhou, China; 2025/03/19-2025/03/21 - Oral and Poster Presentation
 
 - Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contrabuted Presentation
+
+- Academic mobility to Gdansk University; Gdansk, Poland; 2017/10/01-2018/01/25
 
 # Awards
 - Best Oral Presentation Award - 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp (2026-04)
