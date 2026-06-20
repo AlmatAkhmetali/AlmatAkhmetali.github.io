@@ -62,16 +62,6 @@ cv:
         #  - Description 2.
 
     Experience:
-      - company: Energetic Cosmos Laboratory, Nazarbayev University
-        position: Research Assistant
-        location: Astana, Kazakhstan
-        start_date: Jun 2022
-        end_date: Dec 2024
-        summary: Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
-        #highlights:
-        #  - Relativity
-        #  - Description 2.
-
       - company: Xi'an Jiaotong-Liverpool University
         position: Research Assistant
         location: Suzhou, China
@@ -90,6 +80,16 @@ cv:
         #  - Description 1.
         #  - Description 2.
 
+      - company: Energetic Cosmos Laboratory, Nazarbayev University
+        position: Research Assistant
+        location: Astana, Kazakhstan
+        start_date: Jun 2022
+        end_date: Dec 2024
+        summary: Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
+
     #Volunteer:
     #  - company: People's Climate March
     #    position: Lead Organizer
@@ -103,50 +103,28 @@ cv:
 
     Presentations:
       - title: European Astronomical Society Annual Meeting 2026 
-        start_date: June 29, 2026
-        end_date: July 4, 2026
-        location: Laussane, Switzerland
-        type: ePoster
-      
+        date: June 29 – July 4, 2026
+        location: Lausanne, Switzerland
+        summary: ePoster presentation
+
       - title: 1st Silk Road Conference
-        start_date: May 18, 2026
-        end_date: May 22, 2026
+        date: May 18 – 22, 2026
         location: Tashkent, Uzbekistan
-        type: Contributed Talk
+        summary: Contributed Talk
 
-      - title: Structural, formation and Evolution of Clusters 2026 Annual Symposium
-        start_date: Apr 22, 2026
-        end_date: Apr 26, 2026
+      - title: Structural, Formation and Evolution of Clusters 2026 Annual Symposium
+        date: April 22 – 26, 2026
         location: Nanjing, China
-        type: Contributed Talk  
-
-          
-
-      
-
+        summary: Contributed Talk  
+        
     Awards:
-      - title: Master's degree with honors
-        #authors:
-        #  - "Royal Swedish Academy of Sciences"
-        date: Jun 2023
-        awarder: Nazarbayev University
-        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        # summary: Master'
-
-      - title: Deans List
-        # authors:
-        #   - "German Physical Society"
-        date: Sep 2023
-        awarder: Nazarbayev University
-        summary: Abylay Bissekenov has been named to the Deans List for his academmic excellence in coursework at the School of Sciences and Humanities, Nazarbayev University
-
-      - title: Excellent Oral and Poster Presentation Awards
+      - title: Best Oral Presentation Award
         authors:
-         - "2025 XJTLU Postgraduate Research Symposium"
-        date: Mar 2025
-        awarder: Xi'an Jiaotong-Liverpool University
+         - "Second XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp"
+        date: Apr 2026
+        awarder: Xi'an Jiaotong University
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: 2025 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+        summary: The XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp is an annual interdisciplinary academic event co-hosted by Xi'an Jiaotong-Liverpool University (XJTLU), Xi'an Jiaotong University (XJTU), and the University of Liverpool
 
       - title: Best Poster Presentation Award
         authors:
@@ -156,14 +134,29 @@ cv:
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
         summary: 2026 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
 
-      - title: Best Oral Presentation Award
+      - title: Excellent Oral and Poster Presentation Awards
         authors:
-         - "Second XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp"
-        date: Apr 2026
-        awarder: Xi'an Jiaotong University
+         - "2025 XJTLU Postgraduate Research Symposium"
+        date: Mar 2025
+        awarder: Xi'an Jiaotong-Liverpool University
         # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp is an annual interdisciplinary academic event co-hosted by Xi'an Jiaotong-Liverpool University (XJTLU), Xi'an Jiaotong University (XJTU), and the University of Liverpool
-    
+        summary: 2025 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Deans List
+        # authors:
+        #   - "German Physical Society"
+        date: Sep 2023
+        awarder: Nazarbayev University
+        summary: Abylay Bissekenov has been named to the Deans List for his academmic excellence in coursework at the School of Sciences and Humanities, Nazarbayev University
+
+      - title: Master's degree with honors
+        #authors:
+        #  - "Royal Swedish Academy of Sciences"
+        date: Jun 2023
+        awarder: Nazarbayev University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        # summary: Master'
+
     Publications:
       - title: Cluster membership analysis with supervised learning and N-body simulations 
         authors:
