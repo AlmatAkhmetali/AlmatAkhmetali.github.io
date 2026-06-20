@@ -76,77 +76,61 @@ cv:
         # summary:
         highlights:
           - Over 500 hours of TAship experience
-      - company: Energetic Cosmos Laboratory, Nazarbayev University
+      - company: Energetic Cosmos Laboratory
         position: Research Assistant
         date:
         start_date: 2022-06
         end_date: 2024-12
         location: Astana, Kazakhstan
         # summary:
-        # highlights:
-        #   - Developed reinforcement learning algorithms for multi-agent coordination
+        highlights:
+          - Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
         #   - Published research at top-tier venues with significant academic impact
         #     - ICML 2022 main conference paper, cited 340+ times within two years
         #     - NeurIPS 2022 workshop paper on emergent communication protocols
         #     - Invited journal extension in JMLR (2023)
-    projects:
-      - name: '[FlashInfer](https://github.com/)'
-        date:
-        start_date: 2023-01
-        end_date: present
-        location:
-        summary: Open-source library for high-performance LLM inference kernels
-        highlights:
-          - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-          - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
-      - name: '[NeuralPrune](https://github.com/)'
-        date: '2021'
-        start_date:
-        end_date:
-        location:
-        summary: Automated neural network pruning toolkit with differentiable masks
-        highlights:
-          - Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
-          - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
     publications:
-      - title: 'Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models'
+      - title: Formation and Disruption of Wide Binaries in Star Clusters Revealed by N-body Simulations
         authors:
-          - '*John Doe*'
-          - Sarah Williams
-          - David Park
-        summary:
-        doi: 10.1234/neurips.2023.1234
-        url:
-        journal: NeurIPS 2023
-        date: 2023-07
-      - title: Neural Architecture Search via Differentiable Pruning
+          - Abylay Bissekenov
+          - Xiaoying Pang
+          - Rainer Spurzem
+          - Bekdaulet Shukirgaliyev
+          - Mukhagali Kalambay 
+          - Peter Berczik
+        doi: 10.3847/2041-8213/ae5819
+        url: https://ui.adsabs.harvard.edu/abs/2026ApJ..1001L..33B
+        journal: The Astrophysical Journal Letters
+        date: 2026-04
+      - title: Evolution of star clusters with initial bulk rotation via N-body simulations
         authors:
-          - James Liu
-          - '*John Doe*'
-        summary:
-        doi: 10.1234/neurips.2022.5678
-        url:
-        journal: NeurIPS 2022, Spotlight
-        date: 2022-12
-      - title: Multi-Agent Reinforcement Learning with Emergent Communication
+          - Abylay Bissekenov
+          - Xiaoying Pang
+          - Kamlah Albrecht
+          - M. B. N. Kouwenhoven
+          - Rainer Spurzem
+          - Bekdaulet Shukirgaliyev
+          - Mirek Giersz
+          - Abbas Askar
+          - Peter Berczik
+        # summary:
+        doi: 10.1051/0004-6361/202554093
+        url: https://ui.adsabs.harvard.edu/abs/2025A&A...699A.196B
+        journal: Astronomy and Astrophysics
+        date: 2025-07
+      - title: Cluster membership analysis with supervised learning and N-body simulations 
         authors:
-          - Maria Garcia
-          - '*John Doe*'
-          - Tom Anderson
-        summary:
+          - Abylay Bissekenov
+          - Mukhagali Kalambay 
+          - Ernazar Abdikamalov
+          - Xiaoying Pang
+          - Peter Berczik
+          - Bekdaulet Shukirgaliyev
+        # summary:
         doi: 10.1234/icml.2022.9012
-        url:
-        journal: ICML 2022
-        date: 2022-07
-      - title: On-Device Model Compression via Learned Quantization
-        authors:
-          - '*John Doe*'
-          - Kevin Wu
-        summary:
-        doi: 10.1234/iclr.2021.3456
-        url:
-        journal: ICLR 2021, Best Paper Award
-        date: 2021-05
+        url: https://ui.adsabs.harvard.edu/abs/2024A&A...689A.282B
+        journal: Astronomy and Astrophysics
+        date: 2024-09
     selected_honors:
       - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
       - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)

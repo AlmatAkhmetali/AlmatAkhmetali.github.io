@@ -5,7 +5,7 @@ cv:
   location: Suzhou, Jiangsu province, China
   image: "cv_photo.jpg"
   summary: A Kazakh astrophysicist and data scientist specializing in N-body simulations, high-performance computing and machine learning (ML).
-
+  website: https://abissekenov@github.io
   social_networks:
     - network: LinkedIn
       username: Abylay Bissekenov
@@ -79,7 +79,7 @@ cv:
         #  - Description 1.
         #  - Description 2.
 
-      - company: Energetic Cosmos Laboratory, Nazarbayev University
+      - company: Energetic Cosmos Laboratory
         position: Research Assistant
         location: Astana, Kazakhstan
         start_date: Jun 2022

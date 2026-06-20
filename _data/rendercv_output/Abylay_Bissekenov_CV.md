@@ -79,7 +79,7 @@ Mar 2024 – June 2026
 
 
 
-## **Energetic Cosmos Laboratory, Nazarbayev University**, Research Assistant
+## **Energetic Cosmos Laboratory**, Research Assistant
 
 Astana, Kazakhstan
 
@@ -89,71 +89,38 @@ June 2022 – Dec 2024
 
 2 years 7 months
 
-
-
-# Projects
-## **[FlashInfer](https://github.com/)**
-
-Jan 2023 – present
-
-Open-source library for high-performance LLM inference kernels
-
-- Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-
-- Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
-
-
-
-## **[NeuralPrune](https://github.com/)**
-
-Jan 2021
-
-Automated neural network pruning toolkit with differentiable masks
-
-- Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
-
-- Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
+- Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
 
 
 
 # Publications
-## **Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models**
+## **Formation and Disruption of Wide Binaries in Star Clusters Revealed by N-body Simulations**
 
-July 2023
+Apr 2026
 
-*John Doe*, Sarah Williams, David Park
+Abylay Bissekenov, Xiaoying Pang, Rainer Spurzem, Bekdaulet Shukirgaliyev, Mukhagali Kalambay, Peter Berczik
 
-[10.1234/neurips.2023.1234](https://doi.org/10.1234/neurips.2023.1234) (NeurIPS 2023)
-
-
-
-## **Neural Architecture Search via Differentiable Pruning**
-
-Dec 2022
-
-James Liu, *John Doe*
-
-[10.1234/neurips.2022.5678](https://doi.org/10.1234/neurips.2022.5678) (NeurIPS 2022, Spotlight)
+[10.3847/2041-8213/ae5819](https://doi.org/10.3847/2041-8213/ae5819) (The Astrophysical Journal Letters)
 
 
 
-## **Multi-Agent Reinforcement Learning with Emergent Communication**
+## **Evolution of star clusters with initial bulk rotation via N-body simulations**
 
-July 2022
+July 2025
 
-Maria Garcia, *John Doe*, Tom Anderson
+Abylay Bissekenov, Xiaoying Pang, Kamlah Albrecht, M. B. N. Kouwenhoven, Rainer Spurzem, Bekdaulet Shukirgaliyev, Mirek Giersz, Abbas Askar, Peter Berczik
 
-[10.1234/icml.2022.9012](https://doi.org/10.1234/icml.2022.9012) (ICML 2022)
+[10.1051/0004-6361/202554093](https://doi.org/10.1051/0004-6361/202554093) (Astronomy and Astrophysics)
 
 
 
-## **On-Device Model Compression via Learned Quantization**
+## **Cluster membership analysis with supervised learning and N-body simulations**
 
-May 2021
+Sept 2024
 
-*John Doe*, Kevin Wu
+Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter Berczik, Bekdaulet Shukirgaliyev
 
-[10.1234/iclr.2021.3456](https://doi.org/10.1234/iclr.2021.3456) (ICLR 2021, Best Paper Award)
+[10.1234/icml.2022.9012](https://doi.org/10.1234/icml.2022.9012) (Astronomy and Astrophysics)
 
 
 
