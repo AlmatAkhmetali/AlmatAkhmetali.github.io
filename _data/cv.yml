@@ -1,89 +1,85 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Abylay Bissekenov
-  headline: Astrophysicist
-  location: Suzhou, China
+  label: Astrophysicist, PhD Candidate, Master of Science of Physics
   email: abylay.bissekenov22@student.xjtlu.edu.cn
-  photo: cv_photo.jpg
-  # phone:
+  location: Suzhou, China
+  image: 
+  summary: A Kazakh astrophysicist and data scientist specializing in N-body simulations, high-performance computing and machine learning (ML).
   website: https://abissekenov@github.io
   social_networks:
     - network: LinkedIn
       username: Abylay Bissekenov
     - network: GitHub
       username: abisekenov
-  # custom_connections:
   sections:
     Education:
       - institution: Xi'an Jiaotong-Liverpool University
+        location: Suzhou, China
+        url: https://www.xjtlu.edu.cn/
         area: Physics
-        degree: PhD
-        date:
+        studyType: PhD
         start_date: 2024-03
         end_date: 2026-12
-        location: Suzhou, China
-        summary:
-        # highlights:
-        #   - 'Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment'
-        #   - 'Advisor: Prof. Sanjeev Arora'
-        #   - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
+        #score: ""
+        #courses: "Theory of Relativity"
+        highlights:
+         - Expected graduation at the end of 2026.
+         - Upon delays, the CV would be updated
+
       - institution: Nazarbayev University
+        location: Astana, Kazakhstan
+        url: https://nu.edu.kz/
         area: Physics
-        degree: MS
-        date:
+        studyType: Master's degree
+        #studyType: Federal teaching diploma
         start_date: 2021-08
         end_date: 2023-06
-        location: Astana, Kazakhstan
-        summary:
+        score: "3.5/4.0"
         highlights:
-          - 'GPA: 3.5/4.00'
+          # - 'GPA: 3.5/4.00'
           - Graduated with honors
-      - institution: Aktobe Regional State University
+
+      - institution: K.Zhubanov Aktobe Regional State University
+        location: Aktobe, Kazakhstan
+        url: https://zhubanov.edu.kz/
         area: Physics
-        degree: BS
-        date:
+        studyType: Bachelor's degree
+        # studyType: Federal teaching diploma
         start_date: 2016-09
         end_date: 2020-07
-        location: Aktobe, Kazakhstan
-        summary:
+        score: "3.64/4.0"
         highlights:
-          - 'GPA: 3.64/4.00'
+          # - 'GPA: 3.64/4.00'
           - Graduated with honors
+
     Experience:
       - company: Xi'an Jiaotong-Liverpool University
         position: Research Assistant
-        date:
-        start_date: 2024-03
-        end_date: present
         location: Suzhou, China
-        # summary:
-        # highlights:
-        #   - Built foundation model infrastructure serving 2M+ monthly API requests with 99.97% uptime
-        #   - Raised $18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
-        #   - Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
-        #   - Developed proprietary inference optimization reducing latency by 73% compared to baseline
+        start_date: 2024-03 
+        end_date: 2026-12
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
       - company: Xi'an Jiaotong-Liverpool University
         position: Teaching Assistant
-        date:
-        start_date: 2024-03
-        end_date: 2026-06
         location: Suzhou, China
-        # summary:
+        start_date: 2024-03 
+        end_date: 2026-06
         highlights:
           - Over 500 hours of TAship experience
+        #  - Description 2.
+
       - company: Energetic Cosmos Laboratory
         position: Research Assistant
-        date:
+        location: Astana, Kazakhstan
         start_date: 2022-06
         end_date: 2024-12
-        location: Astana, Kazakhstan
-        # summary:
-        highlights:
-          - Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
-        #   - Published research at top-tier venues with significant academic impact
-        #     - ICML 2022 main conference paper, cited 340+ times within two years
-        #     - NeurIPS 2022 workshop paper on emergent communication protocols
-        #     - Invited journal extension in JMLR (2023)
+        summary: Worked under supervision of Bekdaulet Shukirgaliyev and Ernazar Abdikamalov on applications of ML techniques on N-body simulations.
+        #highlights:
+        #  - Relativity
+        #  - Description 2.
     Publications:
       - title: Formation and Disruption of Wide Binaries in Star Clusters Revealed by N-body Simulations
         authors:
@@ -126,38 +122,100 @@ cv:
         url: https://ui.adsabs.harvard.edu/abs/2024A&A...689A.282B
         journal: Astronomy and Astrophysics
         date: 2024-09
-    Conferences and Talks:
+    Conferences, Talks and Visits:
       - bullet: European Astronomical Society Annual Meeting 2026; Lausanne, Switzerland; 2026/06/29-2026/07/04 - K-Poster Presentation
       - bullet: 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contrabuted Presentation
       - bullet: Structural, Formation and Evolution of Clusters 2026 Annual Symposium; Nanjing, China;2026/04/22-2026/04/26 - Contrabuted Presentation 
       - bullet: 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp; Xi'an, China; 2026/04/17-2026/04/19 - Oral Presentation
       - bullet: 2026 XJTLU Postgraduate Research Symposium; Suzhou, China; 2026/03/19-2026/03/20 - Oral and Poster Presentation
-      # - bullet: 
-      - bullet: Informal Presentation at Max Plank Institute of Astronomy, 2025/07/29 - Oral Presentation
+      - bullet: Informal Presentation at Fesenkov Astrophysical Institute; 2025/10/08 - Oral Presentation
+      - bullet: Informal Presentation at Al-Farabi Kazakh National University; 2025/10/07 - Oral Presentation
+      - bullet: Informal Presentation at Nazarbayev University; 2025/09/29 - Oral Presentation
+      - bullet: Galaxy Coffee Seminar at Max Plank Institute of Astronomy; 2025/07/29 - Oral Presentation
+      - bullet: Researcher visit to University of Heidelberg; Heidelberg, Germany; 2025/06/29-2025/08/04
       - bullet: Galaxy Evolution Seminar of Eva K. Grebel group in University of Heidelberg; 2025/07/16 - Oral Presentation
       - bullet: IAU Symposium 398/MODEST-25; Seoul, South Korea; 2025/06/15-2025/06/20 - Contrabuted Presentation
       - bullet: 2025 XJTLU Postgraduate Research Symposium; Suzhou, China; 2025/03/19-2025/03/21 - Oral and Poster Presentation
       - bullet: Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contrabuted Presentation
+      - bullet: Academic mobility to Gdansk University; Gdansk, Poland; 2017/10/01-2018/01/25
     Awards:
-      - bullet: Best Oral Presentation Award - 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp (2026-04)
-      - bullet: Best Poster Presentation Award - XJTLU Postgraduate Research Symposium (2026-03)
-      - bullet: Excellent Oral and Poster Presentation Awards - XJTLU Postgraduate Research Symposium (2025-03)
-      - bullet: Deans List - Nazarbayev University (2023-09)
+      - title: Best Oral Presentation Award
+        authors:
+         - "Second XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp"
+        date: 2026-04
+        awarder: Xi'an Jiaotong University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: The XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp is an annual interdisciplinary academic event co-hosted by Xi'an Jiaotong-Liverpool University (XJTLU), Xi'an Jiaotong University (XJTU), and the University of Liverpool
 
-    Skills:
-      - label: Languages
-        details: Python, C/C++, HTML/CSS, Fortran
-      - label: ML Frameworks
-        details: PyTorch, TensorFlow
-      # - label: Infrastructure
-      #   details: Kubernetes, Ray, distributed training, AWS, GCP
-      - label: Research Areas
-        details: Astrophysics, Physics, Data Science, High-Performance Computing
-    # patents:
-    #   - number: Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
-    #   - number: Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
-    #   - number: Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
-      # - reversed_number: Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
-      # - reversed_number: Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
-      # - reversed_number: 'From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)'
-      # - reversed_number: "Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)"
+      - title: Best Poster Presentation Award
+        authors:
+         - "2026 XJTLU Postgraduate Research Symposium"
+        date: 2026-03
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2026 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Excellent Oral and Poster Presentation Awards
+        authors:
+         - "2025 XJTLU Postgraduate Research Symposium"
+        date: 2025-03
+        awarder: Xi'an Jiaotong-Liverpool University
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: 2025 XJTLU Postgraduate Research Symposium is an academic event since 2019, providing a forum for exchanging and discussing research ideas among doctoral researchers from a wide range of disciplinary areas. 
+
+      - title: Deans List
+        # authors:
+        #   - "German Physical Society"
+        date: 2023-09
+        awarder: Nazarbayev University
+        summary: Abylay Bissekenov has been named to the Deans List for his academmic excellence in coursework at the School of Sciences and Humanities, Nazarbayev University
+
+
+    Languages:
+      - name: Kazakh
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: Russian
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics
+        icon: fa-solid fa-tag
+        keywords: "Astrophysics, Star clusters, Dynamic evolution, Galaxies"
+
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
+
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
+
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
+
+    # Projects:
+    #   - name: Quantum Computing
+    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    #     highlights:
+    #       - Quantum Teleportation
+    #       - Quantum Cryptography
+    #     start_date: 2018-01-01
+    #     end_date: 2018-01-01
+
+    # References:
+    #   - name: Xiaoying Pang
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
