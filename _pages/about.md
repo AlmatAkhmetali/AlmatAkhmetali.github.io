@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher and astrophysicist interested in N-body simulations, high-performance computing, and ML. 
+I am a researcher and astrophysicist interested in N-body simulations, high-performance computing, and ML.
 
 Currently, obtaining my PhD degree in Physics at Xi'an Jiaotong-Liverpool University. I hold a Master's degree from Nazarbayev University and a Bachelor's degree from K. Zhubanov Aktobe Regional State University (currently Herriot-Watt and Zhubanov University).
 
