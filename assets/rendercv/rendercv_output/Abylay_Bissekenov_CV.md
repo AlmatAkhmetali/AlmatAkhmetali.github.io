@@ -131,9 +131,9 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 # Conferences, Talks and Visits
 - European Astronomical Society Annual Meeting 2026; Lausanne, Switzerland; 2026/06/29-2026/07/04 - K-Poster Presentation
 
-- 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contrabuted Presentation
+- 1st Silk Road Conference; Tashkent, Uzbekistan; 2026/05/18-2026/05/22 - Contributed Presentation
 
-- Structural, Formation and Evolution of Clusters 2026 Annual Symposium; Nanjing, China;2026/04/22-2026/04/26 - Contrabuted Presentation
+- Structural, Formation and Evolution of Clusters 2026 Annual Symposium; Nanjing, China;2026/04/22-2026/04/26 - Contributed Presentation
 
 - 2nd XJTU-XJTLU-UoL Doctoral Wisdom Convergence Camp; Xi'an, China; 2026/04/17-2026/04/19 - Oral Presentation
 
@@ -151,11 +151,11 @@ Abylay Bissekenov, Mukhagali Kalambay, Ernazar Abdikamalov, Xiaoying Pang, Peter
 
 - Galaxy Evolution Seminar of Eva K. Grebel group in University of Heidelberg; 2025/07/16 - Oral Presentation
 
-- IAU Symposium 398/MODEST-25; Seoul, South Korea; 2025/06/15-2025/06/20 - Contrabuted Presentation
+- IAU Symposium 398/MODEST-25; Seoul, South Korea; 2025/06/15-2025/06/20 - Contributed Presentation
 
 - 2025 XJTLU Postgraduate Research Symposium; Suzhou, China; 2025/03/19-2025/03/21 - Oral and Poster Presentation
 
-- Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contrabuted Presentation
+- Structural, Formation and Evolution of Clusters 2024 Annual Symposium; Hangzhou, China; 2025/04/26-2025/04/29 - Contributed Presentation
 
 - Academic mobility to Gdansk University; Gdansk, Poland; 2017/10/01-2018/01/25
 
