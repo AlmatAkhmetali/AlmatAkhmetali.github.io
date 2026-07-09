@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-subtitle: I'm Abylay Bissekenov, you can call me Abba.
+subtitle: I'm Almat Akhmetali.
 
 profile:
   align: right
@@ -29,10 +29,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher interested in N-body simulations, high-performance computing, and ML.
+I am a researcher interested in Core-Collapse Supernovae, Gravitational Waves, Star Clusters, Data analysis and Machine Learning.
 
-Currently, obtaining my PhD degree in Physics at Xi'an Jiaotong-Liverpool University. I hold a Master's degree from Nazarbayev University and a Bachelor's degree from K. Zhubanov Aktobe Regional State University (currently Herriot-Watt and Zhubanov University).
-
+Currently, obtaining my PhD degree in Physics at Nazarbayev University. I hold Master's and Bachelor's degree from Al-Farabi Kazakh National University in Physics and Astronomy.
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
